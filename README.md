@@ -49,3 +49,9 @@ I am a passionate programmer who loves learning new technologies. JavaScript, Py
   <a href="https://x.com/bader75288"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
   <a href="https://discord.gg/4cf5uQcTd"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=BR1TOP&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/BR1TOP)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=BR1TOP&theme=material-palenight)](https://github.com/BR1TOP)
+</div>
